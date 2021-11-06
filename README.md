@@ -1,0 +1,2 @@
+# blender_batch_exporter
+blenderの指定コレクション内のオブジェクトをそれぞれエクスポーターするアドオン
